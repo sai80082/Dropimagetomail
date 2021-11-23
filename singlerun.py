@@ -29,3 +29,4 @@ for file in os.listdir(path):
             # removing file after sending the mail
         os.remove(file)
         print(str(datetime.datetime.now()) + " " + file + " File Mailed") # logs
+    time.sleep(120)
