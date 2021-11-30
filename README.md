@@ -1,2 +1,2 @@
 # Drop image to mail
-Script to send a mail automatically when u drop a imgae in a particular folder
+Script for sending a mail automatically to a specified person when you drop a imgae in a particular folder
